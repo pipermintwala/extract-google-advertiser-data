@@ -6,4 +6,4 @@ to:do-
 
 add a more roboust solution to extract more advertisers by permuting through characters
 
-grouping,cleanig the obtained JSON data and converting it into CSVS
+grouping,cleaning the obtained JSON data and converting it into CSVS
