@@ -1,2 +1,6 @@
 # extract-google-advertiser-data
-extract various names,ids of google advertisers
+extract various names,ids of google advertisers using selenium-wire
+
+to:do-
+add a more roboust solution to extract more advertisers by permuting through characters
+grouping,cleanig the obtained JSON data and converting it into CSVS
